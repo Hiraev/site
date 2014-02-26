@@ -1,0 +1,49 @@
+body {
+font-family: Tahoma;
+background-image: url(../img/tweed.png);
+padding:0;
+margin:0;
+}
+#header h3 {
+margin:0;
+}
+a {
+color: #212121;
+text-decoration: none;
+}
+#header {
+padding: 5px 0;
+margin: 0 0 10px 0;
+background-image: url(../img/gray_jean.png);
+box-shadow: 0 0 5px #000000;
+}
+#choose {
+padding:0;
+margin:0;
+
+}
+#choose p:hover{
+background-image: url(../img/green_cup.png);
+}
+#choose p{
+cursor:pointer;
+border-radius:5px;
+padding:5px;
+margin:2px 0;
+background-image: url(../img/bgnoise_lg.png);
+width:150px;
+}
+#body {
+font-family: Arial;
+padding:2px 5px;
+text-align:justify;
+background-color:white;
+font-size:15px;
+box-shadow: 0 0 5px #000000;
+}
+#body p{
+margin:5px;
+}
+h4{
+margin:10px;
+}
